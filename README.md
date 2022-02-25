@@ -17,3 +17,9 @@ Web app and E-book to be prepared for a code interview with JavaScript and Web T
 * [30 Days Of JS - Github](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 * [30 Days Of JS - spacebro.io](https://spacebro.io/articles/30-days-javascript-coding)
 * [How to make an e-book](https://www.youtube.com/results?search_query=how+to+make+an+ebook)
+* [frontendmasters](https://frontendmasters.com/welcome/github-student-developers/)
+
+* [interviewcake](https://www.interviewcake.com/github-students)
+* [onemonth](https://onemonth.com/github/students)
+* [gorails](https://gorails.com/github-students)
+* [frontendmasters](https://frontendmasters.com/welcome/github-student-developers/)
