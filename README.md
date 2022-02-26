@@ -3,6 +3,38 @@
 Web app and E-book to be prepared for a code interview with JavaScript and Web Technologies.
 
 
+<table>
+<thead>
+<tr>
+<th align="center">Day</th>
+<th>Topic</th>
+<th>Notes & Exercises</th>
+</tr>
+</thead>
+<tbody>
+  
+  <tr>
+    <td align="center">01</td>
+    <td>About the code interviews</td>
+    <td><a href="/" rel="nofollow">Notes</a></td>
+  </tr>
+  
+  
+  <tr>
+    <td align="center">02</td>
+    <td>Start Learning</td>
+    <td><a href="/" rel="nofollow">Notes</a></td>
+  </tr>
+  
+  <tr>
+    <td align="center">03</td>
+    <td>Data Structures</td>
+    <td><a href="/" rel="nofollow">Notes</a></td>
+  </tr>
+  
+</tbody>
+</table>
+
 # References
 
 * [algoexpert.io](https://www.algoexpert.io/product)
