@@ -39,6 +39,7 @@ Web app and E-book to be prepared for a code interview with JavaScript and Web T
 
 * [algoexpert.io](https://www.algoexpert.io/product)
 * [hackerrank](https://www.hackerrank.com/dashboard)
+* [interview-tips](https://careers.google.com/interview-tips/)
 * [leetcode.com](https://leetcode.com/)
 * [interviewing.io](https://interviewing.io/)
 * [CtCI-6th-Edition](https://github.com/careercup/CtCI-6th-Edition)
